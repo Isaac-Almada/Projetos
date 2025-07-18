@@ -1,0 +1,10 @@
+João Silva;11999998888;joao@gmail.com
+Maria Souza;11888887777;maria@hotmail.com
+Carlos Lima;11777776666;carlos@yahoo.com
+Ana Beatriz;11666665555;ana@outlook.com
+Pedro Henrique;11555554444;pedro@gmail.com
+Juliana Ramos;11444443333;juliana@hotmail.com
+Lucas Oliveira;11333332222;lucas@yahoo.com
+Camila Fernandes;11222221111;camila@outlook.com
+Bruno Alves;11111110000;bruno@gmail.com
+Fernanda Costa;11919191919;fernanda@hotmail.com
